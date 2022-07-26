@@ -1,6 +1,6 @@
 # FocusTimer2.0-Stage05-Challenge01
 
-![image](https://user-images.githubusercontent.com/107502907/181065798-d503d1aa-b017-4b1c-8551-e31549fcc732.png)
+![image](https://user-images.githubusercontent.com/107502907/181070535-b3da89ff-07ce-4006-aa0c-a135e8cf7a5b.png)
 
 ------------------- Português -------------------
 
